@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_bf63cdbcff27a6d90c975430c457db3084df0b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_3220796ab407fe76f6cd782216434e56a11f6c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_9fab8bc72dd06266f3bec258c2b090c6f4eed9e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_f3a150f57df0bc4c63d9b09844443dc3ac16221a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_b2be845fd037b6599ad8e47728860008eca45dd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_f773e42139ceaf0e218c4b25e7740ebb09284dd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_2e7177736e3f49146de75cdd9fcb695b8d9feb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_66b554355898ee570f3677507e44b0367aee690e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_fc064767813426de42239db46c7525ff79e4ed75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_05f154ccf1a3764d01958f3c71b15de19bf1984a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_7320da1a6b2ffaa7fcf6231374301280e2aaa2ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_07da50b033f16cbf269a55164551bb9836214943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_8d63ef464db3191f9b1d732a6a3a642a1e83515d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_23d31f917d6889d2fe2ad73694423743c2f1a4f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_49a7c605a29ac783fcb794350c93e07765319192/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_408df12f702ec8cc72d82e4afd77936d7d9614e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_64fc4455400075ed1763e1ad89bcdb7892f90a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_7d43a992caf32f25d30f7f0cc8478d382462e09a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_88d70ad2c8768326f024d20595e561796fdec11f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4713941d739cc0acb5a96a79ec8723b4bd3d106e">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7dfb7dd51456d15470608acb49844bc5a743b02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_d5cf4c941fd198f07a0f6dec1e96e82aa8038232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_e870e61798dfae0d1a29c97fd5c7760230f7e267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_81805301bdf5eb240c771183d3cc446404475100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_7e9bded625e57d090cd7650dba601188e59241b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_addaf456e88eefed3eec1abacddc094081d03dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_209aca45be07553b796e0a694da62519643d09c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_03c99cbb11556ca96f5d12a62a6f0ee8ea201739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e8a0d14018274fbcc6fb751131d02623cc96f59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_b9502a87321190e467843589b0fb671c0051e765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_65f97858a5aae097d6b01d553a8774268b82128c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_6c41f17d082a31a92f44d9e8cf3e9439dfa51200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_4aa0aeebce44851c8c83f9421b6a104aaf74880c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_a50acb6026a11085aff9b3e94afb02f351199b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_c6c2e126208313c8a311d62d883a276daab56d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_4d6513acfd8d70dce35aa9b8ddf83fcf3b99d463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4bc3fb6cf945274c043313be2b2b1c28857e8686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_e4943c5c3f206badab7cb872a4db1fc9caae6d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_84bcc4b0517644cb488421f6bd0683a5a0698d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_735cdbefc2151ed9ccbd4e2e1bca546a45072dd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_e580d7eb5c1bd180065244eb4367c956bad1d7d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_21f90897a3eb36040a56ac17d59980870d70639b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_584d0ec9ed9552c0538607b26f366969b30a8223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c765af9205fa819e72fa31e7834e1a349e939c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_1f27112f03732e73ebdd10e24c8e24a0527bebb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_846a62d787d26c32aaf314397a913eee1875e45d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_f474ac3034b28715defd9465333078950a02b0f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_a55d218cd6a3c39405b560a612d2f7640ceb0c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_aae73a0454e026aa639755efc635bd9a0b0db948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_87e28277fad2f2d13f26fe3e6e45469f485bbeed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_b3a4160b2c5696e1546842fec87ca9cbad20a0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_8f83590392a7f36098442b36b3ec3142c4e17bb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_1829762001dc109e4abd161500dc065c9b7037ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_db3dbe4e3bb56c0bd456078f107e593307eaf3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_5e5a89568defbad0251af59ec960e5eadec522fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_e4a2f071818a27dd8e84b768fed9a174561df22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_5535282130cfeba4b31cb895f6f57c5c31f72676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_f39ee6f0f1665402d55226bcb4916c14270756e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_c73e62e4224c456250912eb60cf67e4a598e2954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_a9356af74cba24d766eb5a0429e58951066ec117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_0f6634077853ab18403b036c41bea4ac9f7066cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_845e68ed7188ea15f63327a10be88456f9a7bdac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_8443455e2cbc64b4f248013aa3821c6dc23fe154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_c33e0b60e99c3b795940edcb6177e7556560157b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b12c2276cd4022a7a017baeeedc7565948fa700">
+        <dex dex="/Users/hieutran/AndroidStudioProjects/PointMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a949c09aca4b95ee4664e0d5e1a2c54789da1d41/classes.dex" />
+    </item>
+
+</items>
